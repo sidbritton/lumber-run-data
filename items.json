@@ -1,0 +1,248 @@
+[
+ {
+  "id": "s24",
+  "name": "2x4x8 Stud, SPF #2",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "s24p",
+  "name": "2x4x92-5/8 Precut Stud",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "b26_8",
+  "name": "2x6x8 SPF #2",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "b26_12",
+  "name": "2x6x12 SPF #2",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "b28_12",
+  "name": "2x8x12 SPF #2",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "b210_12",
+  "name": "2x10x12 SPF #2",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "b212_12",
+  "name": "2x12x12 SPF #2",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "osb716",
+  "name": "7/16 in. x 4x8 OSB Sheathing",
+  "unit": "sheet",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "pt44",
+  "name": "4x4x8 Pressure-Treated Post",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "ptdeck",
+  "name": "2x6x12 Pressure-Treated Deck Board",
+  "unit": "each",
+  "trade": "Framing & Lumber"
+ },
+ {
+  "id": "deckscr",
+  "name": "#9 x 2-1/2 in. Deck Screws, 5 lb box",
+  "unit": "box",
+  "trade": "Fasteners & Hardware"
+ },
+ {
+  "id": "n16d",
+  "name": "16d Framing Nails, 5 lb box",
+  "unit": "box",
+  "trade": "Fasteners & Hardware"
+ },
+ {
+  "id": "h1",
+  "name": "Hurricane Tie H1",
+  "unit": "each",
+  "trade": "Fasteners & Hardware"
+ },
+ {
+  "id": "pex12",
+  "name": "1/2 in. x 100 ft PEX-A Tubing, red",
+  "unit": "coil",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "pex12b",
+  "name": "1/2 in. x 100 ft PEX-B Tubing, blue",
+  "unit": "coil",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "pex34",
+  "name": "3/4 in. x 100 ft PEX-B Tubing",
+  "unit": "coil",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "crimp",
+  "name": "1/2 in. PEX Crimp Rings, 50 pack",
+  "unit": "pack",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "elb12",
+  "name": "1/2 in. PEX Brass 90\u00b0 Elbow",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "push12",
+  "name": "1/2 in. Push-to-Connect Coupling (SharkBite Max)",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "cu34",
+  "name": "3/4 in. x 10 ft Copper Pipe, Type L",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "cu12",
+  "name": "1/2 in. x 10 ft Copper Pipe, Type M",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "cuelb",
+  "name": "1/2 in. Copper 90\u00b0 Elbow",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "pvc3",
+  "name": "3 in. x 10 ft PVC DWV Pipe",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "pvc2",
+  "name": "2 in. x 10 ft PVC DWV Pipe",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "ptrap",
+  "name": "1-1/2 in. PVC P-Trap",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "cement",
+  "name": "PVC Primer and Cement Combo, 8 oz",
+  "unit": "kit",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "valve",
+  "name": "1/2 in. x 3/8 in. Quarter-Turn Angle Stop Valve",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "wax",
+  "name": "Toilet Wax Ring with Bolts",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "supply",
+  "name": "3/8 in. x 12 in. Braided Supply Line",
+  "unit": "each",
+  "trade": "Plumbing"
+ },
+ {
+  "id": "w142",
+  "name": "14/2 NM-B Wire, 250 ft",
+  "unit": "roll",
+  "trade": "Electrical"
+ },
+ {
+  "id": "w122",
+  "name": "12/2 NM-B Wire, 250 ft",
+  "unit": "roll",
+  "trade": "Electrical"
+ },
+ {
+  "id": "w123",
+  "name": "12/3 NM-B Wire, 250 ft",
+  "unit": "roll",
+  "trade": "Electrical"
+ },
+ {
+  "id": "box",
+  "name": "Single-Gang New-Work Box",
+  "unit": "each",
+  "trade": "Electrical"
+ },
+ {
+  "id": "outlet",
+  "name": "15A Tamper-Resistant Duplex Outlet, 10 pack",
+  "unit": "pack",
+  "trade": "Electrical"
+ },
+ {
+  "id": "gfci",
+  "name": "20A GFCI Outlet",
+  "unit": "each",
+  "trade": "Electrical"
+ },
+ {
+  "id": "switch",
+  "name": "15A Single-Pole Switch, 10 pack",
+  "unit": "pack",
+  "trade": "Electrical"
+ },
+ {
+  "id": "breaker",
+  "name": "20A Single-Pole Breaker (Square D Homeline)",
+  "unit": "each",
+  "trade": "Electrical"
+ },
+ {
+  "id": "plate",
+  "name": "Duplex Cover Plate, 10 pack",
+  "unit": "pack",
+  "trade": "Electrical"
+ },
+ {
+  "id": "dw12",
+  "name": "1/2 in. x 4x8 Drywall",
+  "unit": "sheet",
+  "trade": "Drywall & Insulation"
+ },
+ {
+  "id": "mud",
+  "name": "All-Purpose Joint Compound, 4.5 gal",
+  "unit": "bucket",
+  "trade": "Drywall & Insulation"
+ },
+ {
+  "id": "r13",
+  "name": "R-13 Kraft Insulation Batt, 15 in. x 93 in., bundle",
+  "unit": "bundle",
+  "trade": "Drywall & Insulation"
+ }
+]
