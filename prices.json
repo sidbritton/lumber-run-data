@@ -1,0 +1,554 @@
+{
+ "updated": "2026-11-13T08:02:25-08:00",
+ "zip": "99212",
+ "items": {
+  "s24": {
+   "hd": {
+    "price": 4.25,
+    "stock": "u",
+    "title": "2 in. x 4 in. x 96 in. #2 Premium Grade KD-HT Stud",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/2-in-x-4-in-x-96-in-2-Premium-Grade-KD-HT-Stud-058449/312528776"
+   },
+   "lw": {
+    "price": 4.15,
+    "stock": "i",
+    "title": "2-in x 4-in x 96-in Kiln-dried Stud",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Top-Choice-2-in-x-4-in-x-8-ft-Douglas-Fir-Stud-Common-1-5-in-x-3-5-in-x-96-in-Actual/1000363761",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "s24p": {
+   "hd": {
+    "price": 4.15,
+    "stock": "u",
+    "title": "2 in. x 4 in. x 92-5/8 in. Prime Whitewood Stud",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/2-in-x-4-in-x-92-5-8-in-Prime-Whitewood-Stud-769887148204/333309702"
+   },
+   "lw": {
+    "price": 3.98,
+    "stock": "i",
+    "title": "2-in x 4-in x 92-5/8-in Kiln-dried Stud",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/2-in-x-4-in-x-92-5-8-in-Hemlock-fir-Kiln-dried-Stud/5015878893",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "b26_8": {
+   "hd": {
+    "price": 9.22,
+    "stock": "u",
+    "title": "2 in. x 6 in. x 8 ft. Premium SPF Dimensional Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/2-in-x-6-in-x-8-ft-Premium-SPF-Dimensional-Lumber-96032/334216730"
+   },
+   "lw": {
+    "price": 10.92,
+    "stock": "i",
+    "title": "2-in x 6-in x 8-ft #2 Prime Douglas Fir Kiln-Dried Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Top-Choice-2-in-x-6-in-x-8-ft-Douglas-Fir-Lumber-Common-1-5-in-x-5-5-in-x-8-ft-Actual/1000571215",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "b26_12": {
+   "hd": {
+    "price": 14.72,
+    "stock": "u",
+    "title": "2 in. x 6 in. x 12 ft. Premium SPF Dimensional Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/2-in-x-6-in-x-12-ft-Premium-SPF-Dimensional-Lumber-058445/312528843"
+   },
+   "lw": {
+    "price": 15.78,
+    "stock": "i",
+    "title": "2-in x 6-in x 12-ft #2 Prime Douglas Fir Kiln-Dried Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Top-Choice-2-in-x-6-in-x-12-ft-Douglas-Fir-Lumber-Common-1-5-in-x-5-5-in-x-12-ft-Actual/1000571239",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "b28_12": {
+   "hd": {
+    "price": 16.52,
+    "stock": "u",
+    "title": "2 in. x 8 in. x 12 ft. Premium Fir Dimensional Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/2-in-x-8-in-x-12-ft-Premium-Fir-Dimensional-Lumber-604372/206182009"
+   },
+   "lw": {
+    "price": 19.34,
+    "stock": "i",
+    "title": "2-in x 8-in x 12-ft #2 Prime Douglas Fir Kiln-Dried Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Top-Choice-2-in-x-8-in-x-12-ft-Douglas-Fir-Lumber-Common-1-5-in-x-7-25-in-x-12-ft-Actual/1000571287",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "osb716": {
+   "hd": {
+    "price": 13.62,
+    "stock": "u",
+    "title": "OSB 7/16 Application as 4ft. X 8 ft. Sheathing Panel",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230"
+   },
+   "lw": {
+    "price": 12.58,
+    "stock": "i",
+    "title": "7/16-in x 4-ft x 8-ft Square OSB Sheathing",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/7-16-CAT-PS2-10-OSB-Sheathing-Application-as-4-x-8/50382768",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "deckscr": {
+   "hd": {
+    "price": 29.97,
+    "stock": "u",
+    "title": "#9 x 2-1/2 in. Tan Torx Flat-Head Wood Deck Screw (5 lbs. / 435-Piece)",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-435-Piece-115981/306587128"
+   }
+  },
+  "n16d": {
+   "hd": {
+    "price": 25.99,
+    "stock": "u",
+    "title": "3-1/2 in. (16D) Hot Dipped Galvanized Smooth Common Nail 5 lbs. (225-Count)",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/PRO-FIT-3-1-2-in-16D-Hot-Dipped-Galvanized-Smooth-Common-Nail-5-lbs-225-Count-0054195/318169731"
+   }
+  },
+  "h1": {
+   "hd": {
+    "price": 1.56,
+    "stock": "u",
+    "title": "H1A 18-Gauge ZMAX Galvanized Hurricane Tie",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-H1A-18-Gauge-ZMAX-Galvanized-Hurricane-Tie-H1AZ/324652902"
+   },
+   "lw": {
+    "price": 1.56,
+    "stock": "i",
+    "title": "Simpson Strong-Tie H1 5-1/4-in 18 -Gauge ZMAX Steel Rafter tie Wood to wood",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.lowes.com/pd/Simpson-Strong-Tie-5-1-4-in-18-Gauge-Zmax-Steel-Rafter-Tie-Wood-To-Wood-100-Pack/5014206575",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "pex12": {
+   "hd": {
+    "price": 33.3,
+    "stock": "u",
+    "title": "1/2 in. x 100 ft. Red PEX-B Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Apollo-1-2-in-x-100-ft-Red-PEX-B-Pipe-APPR10012/301541204"
+   },
+   "lw": {
+    "price": 33.48,
+    "stock": "l",
+    "title": "SharkBite 1/2-in x 100-ft Red PEX-B Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/SharkBite-1-2-in-x-100-ft-PEX-Pipe/1000168499",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "pex12b": {
+   "hd": {
+    "price": 33.3,
+    "stock": "u",
+    "title": "1/2 in. x 100 ft. Blue PEX-B Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Apollo-1-2-in-x-100-ft-Blue-PEX-B-Pipe-APPB10012/301541189"
+   },
+   "lw": {
+    "price": 33.48,
+    "stock": "i",
+    "title": "SharkBite 1/2-in x 100-ft Blue PEX-B Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/SharkBite-1-2-in-x-100-ft-PEX-Pipe/1000168491",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "crimp": {
+   "hd": {
+    "price": 8.37,
+    "stock": "u",
+    "title": "1/2 in. Copper Crimp Ring (50-Pack)",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Apollo-1-2-in-Copper-Crimp-Ring-50-Pack-APXCR1250PK/302337942"
+   },
+   "lw": {
+    "price": 19.65,
+    "stock": "i",
+    "title": "SharkBite 1/2-in PEX Copper Crimp Rings (50-Pack)",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.lowes.com/pd/SharkBite-50-Pack-1-2-in-dia-Copper-PEX-Crimp-Ring-Crimp-Fitting/1000182843",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "cu12": {
+   "hd": {
+    "price": 31.46,
+    "stock": "u",
+    "title": "1/2 in. x 10 ft. Copper Type M Hard Temper Straight Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Cerro-1-2-in-x-10-ft-Copper-Type-M-Hard-Temper-Straight-Pipe-1-2-M-10/100354198"
+   },
+   "lw": {
+    "price": 31.46,
+    "stock": "i",
+    "title": "Streamline 1/2-in x 10-ft Copper Type M Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Mueller-Streamline-1-2-in-x-10-ft-Copper-M-Pipe/1000227967",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "pvc2": {
+   "hd": {
+    "price": 17.38,
+    "stock": "u",
+    "title": "2 in. x 10 ft. White Schedule 40 PVC Pipe Solid Core",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Charlotte-Pipe-2-in-x-10-ft-White-Schedule-40-PVC-Pipe-Solid-Core-PVC-07200-0600/100348475"
+   },
+   "lw": {
+    "price": 17.38,
+    "stock": "i",
+    "title": "IPEX 2-in x 10-ft 280 Psi Schedule 40 PVC Pipe",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.lowes.com/pd/IPEX-2-in-x-10-ft-280-Psi-Schedule-40-PVC-Pipe/5016159371",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "pvc3": {
+   "hd": {
+    "price": 37.31,
+    "stock": "u",
+    "title": "3 in. x 10 ft. PVC Schedule 40 DWV Pipe",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Charlotte-Pipe-3-in-x-10-ft-PVC-Schedule-40-DWV-Pipe-PVC073000600/100348476"
+   }
+  },
+  "ptrap": {
+   "hd": {
+    "price": 8.76,
+    "stock": "u",
+    "title": "1-1/2 in. DWV PVC P-Trap with Union and Plastic Nut",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Charlotte-Pipe-1-1-2-in-DWV-PVC-P-Trap-with-Union-and-Plastic-Nut-PVC00708P0800HD/203396354"
+   },
+   "lw": {
+    "price": 8.98,
+    "stock": "o",
+    "title": "Charlotte Pipe 1-1/2-in x 1-1/2-in PVC DWV Hub P-Trap for Non-Potable Water, NSF Safety Listed",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Charlotte-Pipe-1-1-2-in-x-1-1-2-in-dia-PVC-Schedule-40-Hub-P-Trap-Fitting/3132661",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "wax": {
+   "hd": {
+    "price": 5.7,
+    "stock": "u",
+    "title": "Wax Ring and Bolts for Toilet Bowl",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Wax-Ring-and-Bolts-for-Toilet-Bowl-D6033-40/202551420"
+   },
+   "lw": {
+    "price": 5.16,
+    "stock": "o",
+    "title": "Black Swan Manufacturing Company Black Swan 6-in Yellow Wax Toilet wax ring with bolts",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Black-Swan-Manufacturing-Company-Black-Swan-6-in-Yellow-Wax-Toilet-Wax-Ring-with-Bolts/5015105505",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "w142": {
+   "hd": {
+    "price": 125.0,
+    "stock": "u",
+    "title": "250 ft. 14/2 Romex SIMpull Solid NM-B W/G Wire",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Southwire-250-ft-14-2-Romex-SIMpull-Solid-NM-B-W-G-Wire-28827469/202019377"
+   },
+   "lw": {
+    "price": 125,
+    "stock": "i",
+    "title": "Southwire 250-ft 14 / 2 Romex Solid CU NM-B Individual pack ( By-the-roll )",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Southwire-Romex-SIMpull-250-ft-14-2-Non-Metallic-Wire-By-the-Roll/1193437",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "gfci": {
+   "hd": {
+    "price": 23.48,
+    "stock": "u",
+    "title": "20 Amp Self-Test SmartlockPro Slim Duplex GFCI Outlet, White",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Leviton-20-Amp-Self-Test-SmartlockPro-Slim-Duplex-GFCI-Outlet-White-R12-GFNT2-0RW/205996739"
+   },
+   "lw": {
+    "price": 23.48,
+    "stock": "i",
+    "title": "Eaton 20 -Amp 125-volt GFCI Residential Decorator Outlet Receptacles , White",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Eaton-20-Amp-125-Volt-GFCI-Residential-Decorator-Outlet-White/5014437363",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "dw12": {
+   "hd": {
+    "price": 17.98,
+    "stock": "u",
+    "title": "1/2 in. x 4 ft. x 8 ft. TE Lite-Weight Gypsum Board",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/ToughRock-1-2-in-x-4-ft-x-8-ft-TE-Lite-Weight-Gypsum-Board-012237/202830343"
+   },
+   "lw": {
+    "price": 15.58,
+    "stock": "i",
+    "title": "ToughRock 1/2-in x 4-ft x 8-ft Lite-Weight Regular Drywall Panel",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/ToughRock-Common-1-2-in-x-4-ft-x-8-ft-Actual-0-49-in-x-3-99-ft-x-7-99-ft-Drywall-Panel/1000363095",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "mud": {
+   "hd": {
+    "price": 26.52,
+    "stock": "u",
+    "title": "4.5 gal. All Purpose Ready-Mixed Joint Compound",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-4-5-gal-All-Purpose-Ready-Mixed-Joint-Compound-380501/100321605"
+   },
+   "lw": {
+    "price": 22.22,
+    "stock": "i",
+    "title": "SHEETROCK Brand 4.5 -Gallons Premixed Drywall joint compound Bucket",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/SHEETROCK-Brand-4-5-Gallon-Premixed-All-purpose-Drywall-Joint-Compound/3009538",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "r13": {
+   "hd": {
+    "price": 90.45,
+    "stock": "u",
+    "title": "R-13 Kraft Faced Fiberglass Insulation Batt 15 in. x 93 in.",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.homedepot.com/p/Owens-Corning-R-13-Kraft-Faced-Fiberglass-Insulation-Batt-15-in-x-93-in-BF10/202676829"
+   }
+  },
+  "b210_12": {
+   "lw": {
+    "price": 27.72,
+    "stock": "i",
+    "title": "2-in x 10-in x 12-ft #2 Prime Douglas Fir Kiln-Dried Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Top-Choice-2-in-x-10-in-x-12-ft-Douglas-Fir-Lumber-Common-1-5-in-x-9-25-in-x-12-ft-Actual/1000615613",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "b212_12": {
+   "lw": {
+    "price": 37.92,
+    "stock": "i",
+    "title": "2-in x 12-in x 12-ft #2 Prime Douglas Fir Kiln-Dried Lumber",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Top-Choice-2-in-x-12-in-x-12-ft-Douglas-Fir-Lumber-Common-1-5-in-x-11-25-in-x-12-ft-Actual/1000571347",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "w122": {
+   "lw": {
+    "price": 182,
+    "stock": "i",
+    "title": "Southwire 250-ft 12 / 2 Romex SIMpull Solid CU NM-B Individual pack ( By-the-roll )",
+    "checked": "2026-11-13T07:43:44-08:00",
+    "url": "https://www.lowes.com/pd/Southwire-Romex-SIMpull-250-ft-12-2-Non-Metallic-Wire-By-the-Roll/1193433",
+    "store": "Spokane Valley Lowe's"
+   },
+   "hd": {
+    "price": 182.0,
+    "stock": "u",
+    "title": "250 ft. 12/2 Solid Romex SIMpull CU NM-B W/G Wire",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.homedepot.com/p/Southwire-250-ft-12-2-Solid-Romex-SIMpull-CU-NM-B-W-G-Wire-28828269/202019375"
+   }
+  },
+  "pt44": {
+   "hd": {
+    "price": 11.78,
+    "stock": "u",
+    "title": "4 in. x 4 in. x 8 ft. #2 Ground Contact Pressure-Treated Southern Yellow Pine Wood Post",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.homedepot.com/p/4-in-x-4-in-x-8-ft-2-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Wood-Post-194354/205220341"
+   },
+   "lw": {
+    "price": 11.09,
+    "stock": "i",
+    "title": "Severe Weather 4-in x 4-in x 8-ft Pressure Treated Douglas Fir Round Wood Fence Blank Post",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.lowes.com/pd/4-in-x-8-ft-Pressure-Treated-Hem-fir-Round-Blank-Wood-Fence-Post/5015233051",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "ptdeck": {
+   "hd": {
+    "price": 15.58,
+    "stock": "u",
+    "title": "2 in. x 6 in. x 12 ft. #1 Ground Contact Pressure-Treated Southern Yellow Pine Lumber",
+    "checked": "2026-11-13T07:56:02-08:00",
+    "url": "https://www.homedepot.com/p/2-in-x-6-in-x-12-ft-1-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253905/206966029"
+   }
+  },
+  "pex34": {
+   "hd": {
+    "price": 55.52,
+    "stock": "u",
+    "title": "3/4 in. x 100 ft. Blue PEX-B Pipe",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Apollo-3-4-in-x-100-ft-Blue-PEX-B-Pipe-APPB10034/301541207"
+   }
+  },
+  "elb12": {
+   "hd": {
+    "price": 2.98,
+    "stock": "u",
+    "title": "1/2 in. Brass PEX-B Barb 90-Degree Elbow",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Apollo-1-2-in-Brass-PEX-B-Barb-90-Degree-Elbow-APXE12/301541111"
+   }
+  },
+  "push12": {
+   "hd": {
+    "price": 9.87,
+    "stock": "u",
+    "title": "Max 1/2 in. Brass Push-to-Connect Coupling Fitting",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/SharkBite-Max-1-2-in-Brass-Push-to-Connect-Coupling-Fitting-UR008A/323667924"
+   },
+   "lw": {
+    "price": 9.88,
+    "stock": "i",
+    "title": "SharkBite Max 1/2-in Push-to-Connect Coupling",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.lowes.com/pd/SharkBite-Max-1-2-in-Push-to-Connect-Coupling/5014120315",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "cuelb": {
+   "hd": {
+    "price": 1.65,
+    "stock": "u",
+    "title": "1/2 in. Copper Pressure 90-Degree Cup x Cup Elbow Fitting",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Everbilt-1-2-in-Copper-Pressure-90-Degree-Cup-x-Cup-Elbow-Fitting-C607HD12/204620176"
+   }
+  },
+  "cement": {
+   "hd": {
+    "price": 14.55,
+    "stock": "u",
+    "title": "8 oz. Purple Primer and Rain-R-Shine Medium Blue PVC Cement Combo Pack",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Oatey-8-oz-Purple-Primer-and-Rain-R-Shine-Medium-Blue-PVC-Cement-Combo-Pack-302312/311021162"
+   }
+  },
+  "valve": {
+   "hd": {
+    "price": 9.73,
+    "stock": "u",
+    "title": "1/2 in. Compression Inlet x 3/8 in. Compression Outlet 1/4-Turn Angle Valve",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-Inlet-x-3-8-in-Compression-Outlet-1-4-Turn-Angle-Valve-G2CR19X-C1/202047059"
+   }
+  },
+  "supply": {
+   "hd": {
+    "price": 6.45,
+    "stock": "u",
+    "title": "3/8 in. Compression x 1/2 in. FIP x 12 in. Braided Polymer Faucet Supply Line",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-12-in-Braided-Polymer-Faucet-Supply-Line-B1-12A-F/100068479"
+   }
+  },
+  "w123": {
+   "hd": {
+    "price": 230.0,
+    "stock": "u",
+    "title": "250 ft. 12/3 Purple Solid CerroMax SLiPWire Copper NM-B Wire",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Cerrowire-250-ft-12-3-Purple-Solid-CerroMax-SLiPWire-Copper-NM-B-Wire-147-16093G/312957817"
+   },
+   "lw": {
+    "price": 230,
+    "stock": "l",
+    "title": "Southwire 250-ft 12 / 3 Romex SIMpull Solid CU NM-B Individual pack ( By-the-roll )",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.lowes.com/pd/Southwire-12-3-CU-NM-B-W-G-250-FT/5015233297",
+    "store": "Spokane Valley Lowe's"
+   }
+  },
+  "box": {
+   "hd": {
+    "price": 1.21,
+    "stock": "u",
+    "title": "1-Gang 22 cu. in. New Work Electrical PVC Electrical Outlet Box (B122A-UPC)",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Carlon-1-Gang-22-cu-in-New-Work-Electrical-PVC-Electrical-Outlet-Box-B122A-UPC-B122A-UPC/202546989"
+   }
+  },
+  "outlet": {
+   "hd": {
+    "price": 10.98,
+    "stock": "u",
+    "title": "15 Amp 125 V Tamper Resistant Duplex Outlet/Receptacle, White (10-Pack) T5320-WMP",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Leviton-15-Amp-125-V-Tamper-Resistant-Duplex-Outlet-Receptacle-White-10-Pack-T5320-WMP-M22-T5320-WMP/100684043"
+   }
+  },
+  "switch": {
+   "hd": {
+    "price": 7.98,
+    "stock": "u",
+    "title": "15 Amp Single-Pole Switch, White (10-Pack) 1451-2WM",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Leviton-15-Amp-Single-Pole-Switch-White-10-Pack-1451-2WM-M24-01451-2WM/100075329"
+   }
+  },
+  "breaker": {
+   "hd": {
+    "price": 7.26,
+    "stock": "u",
+    "title": "Homeline 20-Amp Single-Pole Circuit Breaker (HOM120CP)",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Square-D-Homeline-20-Amp-Single-Pole-Circuit-Breaker-HOM120CP-HOM120CP/100045009"
+   }
+  },
+  "plate": {
+   "hd": {
+    "price": 6.2,
+    "stock": "u",
+    "title": "1-Gang White Duplex Outlet/Receptacle Nylon Midway/Midsize Wall Plate (10-Pack) PJ8-WM",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.homedepot.com/p/Leviton-1-Gang-White-Duplex-Outlet-Receptacle-Nylon-Midway-Midsize-Wall-Plate-10-Pack-PJ8-WM-M52-00PJ8-0WM/100356784"
+   }
+  },
+  "cu34": {
+   "lw": {
+    "price": 69.35,
+    "stock": "i",
+    "title": "Streamline 3/4-in x 10-ft Copper Type L Pipe",
+    "checked": "2026-11-13T08:02:25-08:00",
+    "url": "https://www.lowes.com/pd/Mueller-Streamline-3-4-IN-X-10-FT-CPR-TYPE-L/5004090181",
+    "store": "Spokane Valley Lowe's"
+   }
+  }
+ }
+}
